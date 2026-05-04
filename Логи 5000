@@ -1,0 +1,127 @@
+[t=0] P=13 L=8 E=0.007 S=0.527 B=0.049 T=0.70 TA=0.00 LP=0 SG=0.067 MAX=0.067 ZERO=0 TARGETS=13 D=0 R=0
+[t=100] P=37 L=37 E=0.240 S=0.675 B=0.793 T=0.88 TA=0.70 LP=83 SG=0.564 MAX=1.000 ZERO=0 TARGETS=12 D=0 R=0
+[t=200] P=80 L=80 E=0.555 S=0.521 B=0.507 T=0.73 TA=0.79 LP=49 SG=0.511 MAX=1.000 ZERO=2 TARGETS=20 D=0 R=0
+[t=300] P=80 L=80 E=0.707 S=0.604 B=0.160 T=0.74 TA=0.82 LP=54 SG=0.379 MAX=1.000 ZERO=1 TARGETS=32 D=0 R=0
+[t=400] P=80 L=80 E=0.707 S=0.600 B=0.108 T=0.76 TA=0.80 LP=80 SG=0.482 MAX=1.000 ZERO=2 TARGETS=29 D=0 R=0
+[t=500] P=80 L=80 E=0.679 S=0.608 B=0.110 T=0.75 TA=0.85 LP=85 SG=0.396 MAX=1.000 ZERO=1 TARGETS=32 D=0 R=0
+[t=600] P=78 L=78 E=0.695 S=0.602 B=0.102 T=0.76 TA=0.85 LP=109 SG=0.421 MAX=1.000 ZERO=2 TARGETS=27 D=0 R=0
+[t=700] P=80 L=80 E=0.705 S=0.601 B=0.121 T=0.76 TA=0.81 LP=109 SG=0.393 MAX=1.000 ZERO=1 TARGETS=32 D=0 R=0
+[t=800] P=79 L=79 E=0.714 S=0.594 B=0.088 T=0.78 TA=0.86 LP=89 SG=0.516 MAX=1.000 ZERO=2 TARGETS=21 D=1 R=0
+[t=900] P=81 L=81 E=0.704 S=0.596 B=0.094 T=0.74 TA=0.81 LP=93 SG=0.477 MAX=1.000 ZERO=2 TARGETS=17 D=1 R=0
+[t=1000] P=77 L=77 E=0.738 S=0.572 B=0.287 T=0.73 TA=0.88 LP=37 SG=0.456 MAX=1.000 ZERO=1 TARGETS=20 D=3 R=0
+[t=1100] P=72 L=72 E=0.748 S=0.562 B=0.346 T=0.75 TA=0.69 LP=46 SG=0.509 MAX=1.000 ZERO=3 TARGETS=18 D=3 R=2
+[t=1200] P=57 L=57 E=0.701 S=0.553 B=0.446 T=0.73 TA=0.75 LP=15 SG=0.554 MAX=1.000 ZERO=3 TARGETS=9 D=3 R=3
+[t=1300] P=61 L=61 E=0.736 S=0.541 B=0.457 T=0.72 TA=0.54 LP=30 SG=0.700 MAX=1.000 ZERO=0 TARGETS=6 D=3 R=3
+[t=1400] P=55 L=55 E=0.758 S=0.546 B=0.443 T=0.74 TA=0.51 LP=43 SG=0.736 MAX=1.000 ZERO=3 TARGETS=8 D=3 R=3
+[t=1500] P=56 L=56 E=0.753 S=0.562 B=0.419 T=0.76 TA=0.46 LP=52 SG=0.581 MAX=1.000 ZERO=0 TARGETS=7 D=3 R=3
+[t=1600] P=53 L=53 E=0.760 S=0.539 B=0.457 T=0.75 TA=0.47 LP=25 SG=0.591 MAX=1.000 ZERO=1 TARGETS=6 D=1 R=3
+[t=1700] P=57 L=57 E=0.761 S=0.554 B=0.362 T=0.72 TA=0.49 LP=30 SG=0.660 MAX=1.000 ZERO=1 TARGETS=6 D=3 R=3
+[t=1800] P=51 L=51 E=0.736 S=0.537 B=0.401 T=0.73 TA=0.57 LP=19 SG=0.719 MAX=1.000 ZERO=2 TARGETS=5 D=3 R=3
+[t=1900] P=55 L=55 E=0.740 S=0.546 B=0.446 T=0.73 TA=0.65 LP=38 SG=0.714 MAX=1.000 ZERO=1 TARGETS=10 D=3 R=3
+[t=2000] P=53 L=53 E=0.769 S=0.547 B=0.428 T=0.78 TA=0.43 LP=45 SG=0.519 MAX=1.000 ZERO=1 TARGETS=8 D=3 R=3
+[t=2100] P=52 L=52 E=0.761 S=0.574 B=0.407 T=0.65 TA=0.44 LP=9 SG=0.767 MAX=1.000 ZERO=1 TARGETS=9 D=3 R=3
+[t=2200] P=53 L=52 E=0.774 S=0.562 B=0.380 T=0.64 TA=0.45 LP=8 SG=0.714 MAX=1.000 ZERO=3 TARGETS=7 D=3 R=3
+[t=2300] P=52 L=52 E=0.753 S=0.532 B=0.397 T=0.71 TA=0.46 LP=9 SG=0.634 MAX=1.000 ZERO=3 TARGETS=5 D=3 R=3
+[t=2400] P=51 L=51 E=0.790 S=0.555 B=0.429 T=0.71 TA=0.57 LP=9 SG=0.667 MAX=1.000 ZERO=3 TARGETS=7 D=3 R=3
+[t=2500] P=52 L=52 E=0.782 S=0.570 B=0.431 T=0.72 TA=0.27 LP=28 SG=0.639 MAX=1.000 ZERO=0 TARGETS=9 D=3 R=3
+[t=2600] P=53 L=53 E=0.729 S=0.591 B=0.421 T=0.75 TA=0.70 LP=49 SG=0.637 MAX=1.000 ZERO=2 TARGETS=9 D=1 R=3
+[t=2700] P=52 L=52 E=0.751 S=0.540 B=0.325 T=0.83 TA=0.38 LP=61 SG=0.635 MAX=1.000 ZERO=3 TARGETS=6 D=3 R=3
+[t=2800] P=54 L=53 E=0.767 S=0.543 B=0.396 T=0.70 TA=0.41 LP=24 SG=0.704 MAX=1.000 ZERO=4 TARGETS=5 D=3 R=3
+[t=2900] P=56 L=54 E=0.791 S=0.569 B=0.336 T=0.70 TA=0.45 LP=30 SG=0.631 MAX=1.000 ZERO=6 TARGETS=9 D=3 R=3
+[t=3000] P=54 L=52 E=0.768 S=0.562 B=0.353 T=0.69 TA=0.70 LP=21 SG=0.692 MAX=1.000 ZERO=2 TARGETS=11 D=4 R=3
+[t=3100] P=54 L=52 E=0.750 S=0.537 B=0.396 T=0.76 TA=0.43 LP=35 SG=0.695 MAX=1.000 ZERO=3 TARGETS=6 D=5 R=4
+[t=3200] P=55 L=53 E=0.783 S=0.540 B=0.400 T=0.75 TA=0.44 LP=49 SG=0.727 MAX=1.000 ZERO=4 TARGETS=6 D=5 R=5
+[t=3300] P=53 L=51 E=0.765 S=0.529 B=0.357 T=0.80 TA=0.32 LP=66 SG=0.723 MAX=1.000 ZERO=4 TARGETS=7 D=4 R=5
+[t=3400] P=54 L=53 E=0.791 S=0.531 B=0.390 T=0.71 TA=0.37 LP=16 SG=0.671 MAX=1.000 ZERO=5 TARGETS=7 D=6 R=5
+[t=3500] P=54 L=53 E=0.793 S=0.547 B=0.367 T=0.69 TA=0.35 LP=12 SG=0.558 MAX=1.000 ZERO=3 TARGETS=10 D=6 R=6
+[t=3600] P=54 L=53 E=0.778 S=0.562 B=0.378 T=0.73 TA=0.33 LP=19 SG=0.620 MAX=1.000 ZERO=4 TARGETS=10 D=4 R=6
+[t=3700] P=55 L=54 E=0.793 S=0.543 B=0.384 T=0.77 TA=0.20 LP=36 SG=0.615 MAX=1.000 ZERO=4 TARGETS=11 D=6 R=6
+[t=3800] P=55 L=54 E=0.768 S=0.530 B=0.354 T=0.73 TA=0.33 LP=49 SG=0.617 MAX=1.000 ZERO=5 TARGETS=12 D=5 R=6
+[t=3900] P=54 L=53 E=0.766 S=0.552 B=0.408 T=0.78 TA=0.54 LP=67 SG=0.693 MAX=1.000 ZERO=5 TARGETS=9 D=6 R=6
+[t=4000] P=55 L=53 E=0.780 S=0.591 B=0.373 T=0.69 TA=0.60 LP=21 SG=0.531 MAX=1.000 ZERO=4 TARGETS=11 D=6 R=6
+[t=4100] P=55 L=53 E=0.772 S=0.590 B=0.370 T=0.67 TA=0.65 LP=15 SG=0.499 MAX=1.000 ZERO=6 TARGETS=13 D=5 R=6
+[t=4200] P=56 L=53 E=0.797 S=0.550 B=0.348 T=0.64 TA=0.25 LP=10 SG=0.528 MAX=1.000 ZERO=2 TARGETS=11 D=6 R=6
+[t=4300] P=57 L=52 E=0.786 S=0.540 B=0.332 T=0.68 TA=0.25 LP=34 SG=0.482 MAX=1.000 ZERO=11 TARGETS=14 D=7 R=7
+[t=4400] P=58 L=52 E=0.801 S=0.549 B=0.321 T=0.68 TA=0.17 LP=55 SG=0.469 MAX=1.000 ZERO=9 TARGETS=16 D=7 R=7
+[t=4500] P=60 L=52 E=0.794 S=0.590 B=0.320 T=0.70 TA=0.37 LP=68 SG=0.569 MAX=1.000 ZERO=11 TARGETS=19 D=9 R=7
+[t=4600] P=62 L=52 E=0.811 S=0.594 B=0.349 T=0.64 TA=0.24 LP=30 SG=0.444 MAX=1.000 ZERO=12 TARGETS=19 D=9 R=9
+[t=4700] P=66 L=52 E=0.782 S=0.630 B=0.290 T=0.62 TA=0.45 LP=32 SG=0.504 MAX=1.000 ZERO=17 TARGETS=26 D=9 R=10
+[t=4800] P=70 L=52 E=0.798 S=0.615 B=0.314 T=0.65 TA=0.47 LP=50 SG=0.504 MAX=1.000 ZERO=17 TARGETS=25 D=12 R=11
+[t=4900] P=75 L=51 E=0.802 S=0.568 B=0.322 T=0.68 TA=0.21 LP=71 SG=0.409 MAX=1.000 ZERO=22 TARGETS=30 D=17 R=14
+
+==================================================
+832 AGI PROJECTION CORE v34.01 - FINAL REPORT
+==================================================
+Total steps: 5000 | Surviving: 78 | Lineages: 54
+
+--- 🌌 FIELD VOICE REPORT ---
+  Total events processed: 5000.0
+  Dominant concept: **STORM**
+  Field rhythm: ♩·♩··♩·♩♩·♩··♩·♩
+
+  Top 5 Field Reactions:
+    1. [storm] ×2461.0
+       💬 "Поле дрожит от напряжения..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    2. [void] ×1937.0
+       💬 "Пустота зовёт из глубин..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    3. [flow] ×455.0
+       💬 "Поток несёт нас дальше..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+    4. [silence] ×147.0
+       💬 "Поле замирает в ожидании..."
+       🎵 ♩·♩··♩·♩♩·♩··♩·♩
+
+
+--- TOP 5 LONG-LIVED PATTERNS ---
+  #6 (age=5000, soul=0.51, role=disorganizer)
+  State: seeking_comfort | Gratitude: 1.00 | Grief: 0.29
+  Report: Разрушение вокруг: горе (0.49) растёт, но душа (0.40) ещё держится......
+  Core Concept: (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort') (freq=267)
+
+  #9 (age=5000, soul=0.51, role=disorganizer)
+  State: seeking_comfort | Gratitude: 1.00 | Grief: 0.66
+  Report: Кризис духа: боль (0.66) достигла предела, душа истончилась (0.40); тоска по свету становится невыносимой....
+  Core Concept: (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort') (freq=377)
+
+  #2539 (age=4332, soul=0.51, role=disorganizer)
+  State: seeking_comfort | Gratitude: 1.00 | Grief: 0.69
+  Report: Разрушение вокруг: горе (0.69) растёт, но душа (0.40) ещё держится......
+  Core Concept: (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort') (freq=440)
+
+  #18615 (age=2372, soul=0.64, role=disorganizer)
+  State: seeking_comfort | Gratitude: 0.99 | Grief: 0.69
+  Report: Кризис духа: боль (0.69) достигла предела, душа истончилась (0.40); тоска по свету становится невыносимой....
+  Core Concept: (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort') (freq=187)
+
+  #19793 (age=2240, soul=0.64, role=disorganizer)
+  State: seeking_comfort | Gratitude: 0.95 | Grief: 0.66
+  Report: Хаос внутри и снаружи: тревога (0.66) достигла критической точки; тоска по свету пробивается сквозь тьму....
+  Core Concept: (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort') (freq=236)
+
+--- TOP CONCEPTUAL MINDS ---
+  #6: 60 concepts
+    ↳ (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort'): 267
+    ↳ (np.float64(0.9), np.float64(0.8), 0.5, 'grateful_but_cautious'): 228
+  #9: 49 concepts
+    ↳ (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort'): 377
+    ↳ (np.float64(0.8), np.float64(0.8), 0.4, 'seeking_comfort'): 113
+  #2539: 31 concepts
+    ↳ (np.float64(0.9), np.float64(0.8), 0.4, 'seeking_comfort'): 440
+    ↳ (np.float64(0.8), np.float64(0.8), 0.4, 'contentment'): 107
+
+--- SYSTEM STATE ---
+  Trust Avg: 0.68 | High Pairs: 179
+  Triadic Alive: 18/78 (23.1%)
+  Disorganizers: 20 | Redeemed: 18
+  Avg Binding: 0.671 | Avg Spirit Gap: 0.440
+
+--- DISORGANIZER SUMMARY (20) ---
+  Steps: {1: 17, 3: 3} | States: {'seeking_comfort': 17, 'contentment': 3}
+  Avg Grief: 0.66 | ⚠️ Stuck (Step 2, G>0.6): 0
+
+==================================================
+SIMULATION COMPLETE
+==================================================
+✅ Cell 4b executed: Final report generated.
